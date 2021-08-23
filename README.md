@@ -69,6 +69,7 @@ A curated list of awesome open source Android applications, tutorials and resour
 - [Simple Voice Recorder](https://f-droid.org/en/packages/com.simplemobiletools.voicerecorder/) - An easy way of recording any discussion or sounds without ads or internet access.
 - [Standard Notes](https://standardnotes.org/) - A free, open-source, and completely encrypted notes app.
 - [Video-Transcoder](https://github.com/brarcher/video-transcoder) - Android app for video and audio transcoder, based on FFmpeg 
+- [Animated Theme Manager](https://github.com/imandolatkia/Android-Animated-Theme-Manager) - create your custom themes and change them dynamically with ripple animation
 
 ## Torrenting
 - [LibreTorrent](https://gitlab.com/proninyaroslav/libretorrent) - Copylefted libre full-featured torrent client for Android.
